@@ -10,7 +10,7 @@
 
 ![andrebarroscg GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarroscg&show_icons=true&theme=dracula)
 
- ## Tecnologias que uso no meu dia dia !
+ ## ⚙️ Linguagens !
 
 
  <div style = "display: inline_block"><br/>
