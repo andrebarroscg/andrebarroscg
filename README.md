@@ -24,7 +24,7 @@
   
 
 
-Formado em Arquitetura e Urbanismo, apaixonado por Tecnologias onde me levou a estudar programação! <br/> Hoje sou estudante de Sistemas de Informações na Unifacisa em Campina Grande/PB.
+Formado em Arquitetura e Urbanismo, apaixonado por Tecnologias onde me levou a estudar programação! <br/> Hoje sou estudante de Engenharia de Softwere - Estacio.
 
 ## email andre.barros@zoetecbrasil.combr
 
