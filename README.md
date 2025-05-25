@@ -26,6 +26,6 @@
 
 Formado em Arquitetura e Urbanismo, apaixonado por Tecnologias onde me levou a estudar programação! <br/> Hoje sou estudante de Engenharia de Softwere - Estacio.
 
-## email andre.barros@zoetecbrasil.combr
+## email andre.barros@dmobilcharge.com
 
  </div>
