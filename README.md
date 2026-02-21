@@ -24,8 +24,7 @@
   
 
 
-Formado em Arquitetura e Urbanismo, apaixonado por Tecnologias onde me levou a estudar programação! <br/> Hoje sou estudante de Engenharia de Softwere - Estacio.
-
-## email andre.barros@dmobilcharge.com
+Formado em Arquitetura e Urbanismo, apaixonado por Tecnologias onde me levou a estudar programação! <br/> Hoje sou estudante da DevClub
+## email andretadeubarros@gmail.com
 
  </div>
