@@ -24,7 +24,7 @@
   
 
 
-Formado em Arquitetura e Urbanismo, apaixonado por Tecnologias onde me levou a estudar programação! <br/> Hoje sou estudante da DevClub
+Eu sou André Barros, sou um programador Front End, atualmente me aprofundandos nos estudos! <br/> Hoje sou estudante da DevClub
 ## email andretadeubarros@gmail.com
 
  </div>
